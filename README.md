@@ -1,1 +1,1 @@
-A Rust ClI tool in the makings.
+A Rust CLI tool in the makings.
